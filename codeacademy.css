@@ -1,0 +1,29 @@
+h1{
+    background-image: url(file:///C:/Users/Jo%C3%A3o%20Victor/Dropbox/PC/Documents/Projects/imgs/pattern.webp);
+    text-align: center;
+    font-size: 150px;
+    font-family: Georgia;
+    color: purple;
+}
+.guache{
+    color: royalblue;
+}
+.monalisa{
+    color: saddlebrown;
+}
+.parede{
+    color: seagreen;
+}
+footer{
+    background-color: yellowgreen;
+    text-align: center;
+    padding: 50px;
+    color: rgb(3, 1, 1);
+}
+a{
+    color: rgb(0, 0, 0);
+}
+body{
+    background-color: black;
+    text-align: center;
+}
